@@ -1,3 +1,5 @@
+/* MAIN PAGE CSS */
+
 html {
   box-sizing: border-box;
 }
@@ -23,6 +25,7 @@ body {
 h1 {
   text-align: center;
   margin: 50px 0;
+  color: darkslategrey;
 }
 
 ul {
@@ -31,7 +34,7 @@ ul {
 }
 
 ul li {
-    margin-bottom: 4px;
+  margin-bottom: 4px;
 }
 
 ul li a {
@@ -41,5 +44,5 @@ ul li a {
 }
 
 ul li a:hover {
-    color: rgb(109, 29, 0);
+  color: rgb(109, 29, 0);
 }
